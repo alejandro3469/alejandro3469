@@ -1,5 +1,5 @@
 - Hi, My name's Alejandro
-- I’m interested in web development, chess and martial arts
+- I’m interested in web development and chess
 - I’m currently learning ...
 - I’m looking to collaborate on ...
 - e-mail: alejandro.perez3469@gmail.com
