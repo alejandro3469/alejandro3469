@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @alejandro3469
-- 👀 I’m interested in Front-end development
-- 🌱 I’m currently learning Nextjs
-- 💞️ I’m looking to collaborate on web development projects
-- 📫 How to reach me: alejandro.perez3469gmail.com
+Hi, I’m Alejandro Perez
+I’m interested in Software Development and Software Architecture
+I’m currently learning Linux
+I’m looking to collaborate on Web Development
+Email: alejandro.perez3469@gmail.com
 
 <!---
 alejandro3469/alejandro3469 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
